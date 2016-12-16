@@ -1,2 +1,3 @@
 # testes_criptografia
-Aqui estão alguns testes de criptografia utilizando AES, DES e RSA em PHP. Também há uma validação em CAPTCHA
+
+Testes de criptografia utilizando AES, DES e RSA; nos modos ECB e CBC em PHP. Também há uma validação em CAPTCHA gerada automaticamente.
